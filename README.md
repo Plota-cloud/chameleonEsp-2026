@@ -50,10 +50,10 @@ Target application running in windowed or borderless windowed mode (for overlay 
 Dependencies
 
 ## Keywords:
-cheat engine
-meccha chameleon
-mecha chameleon
-meccha chameleon esp
-meccha chameleon mod
-meccha chameleon hacks
-meccha chameleon game
+- cheat engine
+- meccha chameleon
+- mecha chameleon
+- meccha chameleon esp
+- meccha chameleon mod
+- meccha chameleon hacks
+- meccha chameleon game
