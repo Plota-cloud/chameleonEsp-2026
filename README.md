@@ -13,6 +13,7 @@ MECCHA CHAMELEON Box ESP is a standalone, non‑invasive memory analysis and vis
 
 Instead, it uses pattern scanning to locate key engine structures (GUObjectArray, GameState, PlayerArray) and reads process memory directly via pymem. The captured data is rendered as an interactive, transparent overlay for debugging and research purposes.
 
+
 ## Capabilities
 Fully external — runs as a separate process; does not modify game memory or cod
 Pattern‑based structure discovery — dynamically finds GUObjectArray using signature scanning
